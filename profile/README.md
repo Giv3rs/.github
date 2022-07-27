@@ -1,9 +1,8 @@
 # Giv3rs
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.svg"/>
+<img src="./assets/giv3_logo.drawio.svg" width=400/>
 </a>
-_A censorship resistant blog posting platform utilizing IPFS and Markdown_
 
 🖌️ UI/UX Design: <https://www.figma.com/file/5DzSlzB3mI3MrTST9zRMLN/Morpheus-Hackathon>
 
