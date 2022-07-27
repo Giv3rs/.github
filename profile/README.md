@@ -1,7 +1,7 @@
 # Giv3rs
 
 <p align="center">
-<img src="./assets/giv3_logo.drawio.svg" width=400/>
+<img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.drawio.svg" width=400/>
 </a>
 <p align="center">
 <i>Safeguarding the future of philanthrophy</i>
