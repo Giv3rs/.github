@@ -1,7 +1,6 @@
 # Giv3rsed
 
 <p align="center">
-<a href="https://weathered-limit-7676.on.fleek.co/">
 <img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.svg"/>
 </a>
 _A censorship resistant blog posting platform utilizing IPFS and Markdown_
