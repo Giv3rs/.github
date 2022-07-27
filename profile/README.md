@@ -3,6 +3,8 @@
 <p align="center">
 <img src="./assets/giv3_logo.drawio.svg" width=400/>
 </a>
+<p align="center">
+<i>Safeguarding the future of philanthrophy</i>
 
 🖌️ UI/UX Design: <https://www.figma.com/file/5DzSlzB3mI3MrTST9zRMLN/Morpheus-Hackathon>
 
