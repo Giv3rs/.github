@@ -1,4 +1,4 @@
-# Giv3rs
+# GIV3
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/giv3_logo.drawio.svg" width=400/>
