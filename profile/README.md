@@ -29,7 +29,3 @@ _A censorship resistant blog posting platform utilizing IPFS and Markdown_
 ## Technical Architecture
 
 ![architecture](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/architecture.drawio.svg")
-
-## Demo
-
-https://user-images.githubusercontent.com/23635326/180727533-b05d3006-4ab7-4008-a55c-dd1355ff08d0.mp4
