@@ -26,6 +26,8 @@
 ![page 10](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/ss_Page_10.png)
 ![page 11](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/ss_Page_11.png)
 ![page 12](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/ss_Page_12.png)
+![page 13](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/ss_Page_13.png)
+![page 14](https://raw.githubusercontent.com/Giv3rs/.github/main/profile/assets/ss_Page_14.png)
 
 ## Technical Architecture
 
